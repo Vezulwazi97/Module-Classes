@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SystemsAnalysis
+comment1.params=
+comment1.target=SystemsAnalysis()
+comment2.params=testAverage\ presentationMark\ moduleName\ moduleCode
+comment2.target=SystemsAnalysis(double,\ double,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=double\ getTestAverage()
+comment4.params=testAverage
+comment4.target=void\ setTestAverage(double)
+comment5.params=
+comment5.target=double\ getPresentationMark()
+comment6.params=presentationMark
+comment6.target=void\ setPresentationMark(double)
+comment7.params=
+comment7.target=double\ getParticipationMark()
+comment8.params=
+comment8.target=double\ getModuleMark()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
